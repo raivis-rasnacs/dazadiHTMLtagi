@@ -23,3 +23,12 @@ mark {
   border-radius:50%;
   background:radial-gradient(green,blue);
 }
+
+table {
+  border-collapse:collapse;
+}
+
+tr, td {
+  padding:5px;
+  border:1px solid black;
+}
